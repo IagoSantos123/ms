@@ -104,6 +104,25 @@ html{
     background: none;
 }
 
+.home .home-content button {
+    display: inline-block;
+    background: #0755fa;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px 30px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid #0755fa;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.home .home-content button:hover {
+    color: #0755fa;
+    background: none;
+}
+
+
 /*  Menu  Mobile  */
 .menu-btn{
     color: #fff;
