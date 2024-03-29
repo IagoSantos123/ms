@@ -63,6 +63,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
+    background: url(image/bannerms.png) no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
